@@ -1,0 +1,1 @@
+alert("Em xin lỗi mấy anh, tụi em chỉ làm được bao nhiêu thoi")
